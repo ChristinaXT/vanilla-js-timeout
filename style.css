@@ -1,10 +1,9 @@
 body {
-  background: lightgrey;
+  background: pink;
 }
 
 button {
  background: #67b11c;
- background: url("tick.png") 20px 50% no-repeat, linear-gradient(#72c41f, #5c9e19);
  border: 2px solid #467813;
  border-radius: 5px;
  color: #fff;
